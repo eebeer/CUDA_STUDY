@@ -1,1 +1,1 @@
-THIS IS README FILE
+understanding matrixMul in CUDA
