@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/matrixMul_vs2019.vcxproj.user
+/matrixMul_vs2019.vcxproj
+/matrixMul_vs2019.sln
+/matrixMul_vs2017.vcxproj
+/matrixMul_vs2017.sln
+/readme.txt
+/x64/Debug
+/.vs

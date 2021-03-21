@@ -23,7 +23,7 @@
  * pp. Art. 31:1-11.
  */
 
-// modified
+// modified 
 
 // System includes
 #include <assert.h>
